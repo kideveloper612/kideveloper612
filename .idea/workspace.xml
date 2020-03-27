@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b2c9af-c60d-42f8-a6dd-3755c41f3960" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitigonore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/marketcheck.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketcheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/marketcheck.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -83,21 +79,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="734" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585253811327" />
-    <state width="1899" height="345" key="GridCell.Tab.0.bottom" timestamp="1585254723937">
+    <state width="1899" height="358" key="GridCell.Tab.0.bottom" timestamp="1585331568882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585254723937" />
-    <state width="1899" height="345" key="GridCell.Tab.0.center" timestamp="1585254723937">
+    <state width="1899" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585331568882" />
+    <state width="1899" height="358" key="GridCell.Tab.0.center" timestamp="1585331568882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585254723937" />
-    <state width="1899" height="345" key="GridCell.Tab.0.left" timestamp="1585254723937">
+    <state width="1899" height="358" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585331568882" />
+    <state width="1899" height="358" key="GridCell.Tab.0.left" timestamp="1585331568882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585254723937" />
-    <state width="1899" height="345" key="GridCell.Tab.0.right" timestamp="1585254723937">
+    <state width="1899" height="358" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585331568882" />
+    <state width="1899" height="358" key="GridCell.Tab.0.right" timestamp="1585331568882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585254723937" />
+    <state width="1899" height="358" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585331568882" />
   </component>
 </project>

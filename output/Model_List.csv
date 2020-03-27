@@ -1,0 +1,1093 @@
+YEAR,MAKE,MODEL
+2010,Audi,A3
+2010,Audi,A4
+2010,Audi,A5
+2010,Audi,A6
+2010,Audi,A8
+2010,Audi,Q5
+2010,Audi,Q7
+2010,Audi,R8
+2010,Audi,S4
+2010,Audi,S5
+2010,Audi,S6
+2010,Audi,TT
+2010,Audi,TTS
+2011,Audi,A3
+2011,Audi,A4
+2011,Audi,A5
+2011,Audi,A6
+2011,Audi,A8
+2011,Audi,Q5
+2011,Audi,Q7
+2011,Audi,R8
+2011,Audi,S4
+2011,Audi,S5
+2011,Audi,S6
+2011,Audi,TT
+2011,Audi,TTS
+2012,Audi,A3
+2012,Audi,A4
+2012,Audi,A5
+2012,Audi,A6
+2012,Audi,A7
+2012,Audi,A8
+2012,Audi,Q5
+2012,Audi,Q7
+2012,Audi,R8
+2012,Audi,S4
+2012,Audi,S5
+2012,Audi,TT
+2012,Audi,TT RS
+2012,Audi,TTS
+2013,Audi,A3
+2013,Audi,A4
+2013,Audi,A5
+2013,Audi,A6
+2013,Audi,A7
+2013,Audi,A8
+2013,Audi,Q5
+2013,Audi,Q7
+2013,Audi,RS 5
+2013,Audi,S4
+2013,Audi,S5
+2013,Audi,S6
+2013,Audi,S7
+2013,Audi,S8
+2013,Audi,TT
+2013,Audi,TT RS
+2013,Audi,TTS
+2013,Audi,allroad
+2014,Audi,A4
+2014,Audi,A5
+2014,Audi,A6
+2014,Audi,A7
+2014,Audi,A8
+2014,Audi,Q5
+2014,Audi,Q7
+2014,Audi,R8
+2014,Audi,RS 5
+2014,Audi,RS7
+2014,Audi,S4
+2014,Audi,S5
+2014,Audi,S6
+2014,Audi,S7
+2014,Audi,S8
+2014,Audi,SQ5
+2014,Audi,TT
+2014,Audi,TTS
+2014,Audi,allroad
+2015,Audi,A3 Cabriolet
+2015,Audi,A3 Sedan
+2015,Audi,A3 Sedan; S3
+2015,Audi,A4
+2015,Audi,A5
+2015,Audi,A5 Cabriolet
+2015,Audi,A6
+2015,Audi,A7
+2015,Audi,A8
+2015,Audi,Q3
+2015,Audi,Q5
+2015,Audi,Q7
+2015,Audi,R8
+2015,Audi,RS 5
+2015,Audi,RS 5 Cabriolet
+2015,Audi,RS 7
+2015,Audi,S3
+2015,Audi,S4
+2015,Audi,S5
+2015,Audi,S5 Cabriolet
+2016,Audi,A3 Cabriolet
+2016,Audi,A3 Sedan
+2016,Audi,A3 Sportback e-tron?
+2016,Audi,A4
+2016,Audi,A5 Cabriolet
+2016,Audi,A5 Coupe
+2016,Audi,A6
+2016,Audi,A7
+2016,Audi,A8
+2016,Audi,Q3
+2016,Audi,Q5
+2016,Audi,RS 7
+2016,Audi,S3
+2016,Audi,S4
+2016,Audi,S5 Cabriolet
+2016,Audi,S5 Coupe
+2016,Audi,S6
+2016,Audi,S7
+2016,Audi,S8
+2016,Audi,SQ5
+2017,Audi,A3 Cabriolet
+2017,Audi,A3 Sedan
+2017,Audi,A3 Sportback e-tron?
+2017,Audi,A4
+2017,Audi,A5 Cabriolet
+2017,Audi,A5 Coupe
+2017,Audi,A6
+2017,Audi,A7
+2017,Audi,A8
+2017,Audi,Q3
+2017,Audi,Q5
+2017,Audi,Q7
+2017,Audi,R8
+2017,Audi,RS 3
+2017,Audi,RS 7
+2017,Audi,S3
+2017,Audi,S5 Cabriolet
+2017,Audi,S5 Coupe
+2017,Audi,S6
+2017,Audi,S7
+2018,Audi,A3 Cabriolet
+2018,Audi,A3 Sedan
+2018,Audi,A3 Sportback e-tron?
+2018,Audi,A4
+2018,Audi,A5 Cabriolet
+2018,Audi,A5 Coupe
+2018,Audi,A5 Sportback
+2018,Audi,A6
+2018,Audi,A7
+2018,Audi,A8
+2018,Audi,Q3
+2018,Audi,Q5
+2018,Audi,Q7
+2018,Audi,R8
+2018,Audi,RS 3
+2018,Audi,RS 5
+2018,Audi,RS 7
+2018,Audi,S3
+2018,Audi,S4
+2018,Audi,S5 Cabriolet
+2019,Audi,A3 Cabriolet
+2019,Audi,A3 Sedan
+2019,Audi,A4
+2019,Audi,A5 Cabriolet
+2019,Audi,A5 Coupe
+2019,Audi,A5 Sportback
+2019,Audi,A6
+2019,Audi,A7
+2019,Audi,A8
+2019,Audi,Q3
+2019,Audi,Q5
+2019,Audi,Q7
+2019,Audi,Q8
+2019,Audi,RS 3
+2019,Audi,RS 5 Coupe
+2019,Audi,RS 5 Sportback
+2019,Audi,S3
+2019,Audi,S4
+2019,Audi,S5 Cabriolet
+2019,Audi,S5 Coupe
+2020,Audi,A3 Sedan
+2020,Audi,A4
+2020,Audi,A5 Cabriolet
+2020,Audi,A5 Coupe
+2020,Audi,A5 Sportback
+2020,Audi,A6
+2020,Audi,A6 Allroad
+2020,Audi,A7
+2020,Audi,A8
+2020,Audi,Q3
+2020,Audi,Q5
+2020,Audi,Q7
+2020,Audi,Q8
+2020,Audi,R8
+2020,Audi,RS 3
+2020,Audi,S3
+2020,Audi,S4
+2020,Audi,S5 Cabriolet
+2020,Audi,S5 Coupe
+2020,Audi,S5 Sportback
+2010,BMW,1 Series
+2010,BMW,3 Series
+2010,BMW,5 Series
+2010,BMW,6 Series
+2010,BMW,7 Series
+2010,BMW,X3
+2010,BMW,X5
+2010,BMW,X6
+2010,BMW,Z4
+2012,BMW,1 Series
+2012,BMW,3 Series
+2012,BMW,5 Series
+2012,BMW,6 Series
+2012,BMW,7 Series
+2012,BMW,X3
+2012,BMW,X5
+2012,BMW,X6
+2012,BMW,Z4
+2014,BMW,2 Series
+2014,BMW,3 Series
+2014,BMW,4 Series
+2014,BMW,5 Series
+2014,BMW,6 Series
+2014,BMW,7 Series
+2014,BMW,X1
+2014,BMW,X3
+2014,BMW,X5
+2014,BMW,X6
+2014,BMW,Z4
+2014,BMW,i3
+2014,BMW,i8
+2016,BMW,2 Series
+2016,BMW,3 Series
+2016,BMW,4 Series
+2016,BMW,5 Series
+2016,BMW,6 Series
+2016,BMW,7 Series
+2016,BMW,M2 Coupe
+2016,BMW,M3 Sedan
+2016,BMW,M4 Convertible
+2016,BMW,M4 Coupe
+2016,BMW,M5 Sedan
+2016,BMW,M6 Convertible
+2016,BMW,M6 Coupe
+2016,BMW,M6 Gran Coupe
+2016,BMW,X1
+2016,BMW,X3
+2016,BMW,X4
+2016,BMW,X5
+2016,BMW,X5 M
+2016,BMW,X6
+2017,BMW,2 Series
+2017,BMW,3 Series
+2017,BMW,4 Series
+2017,BMW,5 Series
+2017,BMW,6 Series Convertible
+2017,BMW,6 Series Coupe
+2017,BMW,6 Series Gran Coupe
+2017,BMW,6 Series Gran Coupe; ALPINA B6 Gran Coupe
+2017,BMW,7 Series
+2017,BMW,M2 Coupe
+2017,BMW,M3 Sedan
+2017,BMW,M4 Convertible
+2017,BMW,M4 Coupe
+2017,BMW,M6 Convertible
+2017,BMW,M6 Coupe
+2017,BMW,M6 Gran Coupe
+2017,BMW,X1
+2017,BMW,X3
+2017,BMW,X4
+2017,BMW,X5
+2018,BMW,2 Series
+2018,BMW,3 Series
+2018,BMW,4 Series
+2018,BMW,5 Series
+2018,BMW,6 Series Convertible
+2018,BMW,6 Series Gran Coupe
+2018,BMW,6 Series Gran Coupe; ALPINA B6 Gran Coupe
+2018,BMW,6 Series Gran Turismo
+2018,BMW,7 Series
+2018,BMW,M2 Coupe
+2018,BMW,M3 Sedan
+2018,BMW,M4 Convertible
+2018,BMW,M4 Coupe
+2018,BMW,M5
+2018,BMW,M6 Convertible
+2018,BMW,M6 Gran Coupe
+2018,BMW,X1
+2018,BMW,X2
+2018,BMW,X3
+2018,BMW,X4
+2019,BMW,2 Series
+2019,BMW,3 Series
+2019,BMW,4 Series
+2019,BMW,5 Series
+2019,BMW,6 Series Gran Coupe
+2019,BMW,6 Series Gran Turismo
+2019,BMW,7 Series
+2019,BMW,8 Series
+2019,BMW,ALPINA B6 Gran Coupe
+2019,BMW,M2 Coupe
+2019,BMW,M4 Convertible
+2019,BMW,M4 Coupe
+2019,BMW,M5
+2019,BMW,M6 Gran Coupe
+2019,BMW,X1
+2019,BMW,X2
+2019,BMW,X2 M
+2019,BMW,X3
+2019,BMW,X4
+2019,BMW,X5
+2020,BMW,2 Series
+2020,BMW,3 Series
+2020,BMW,4 Series
+2020,BMW,5 Series
+2020,BMW,7 Series
+2020,BMW,8 Series
+2020,BMW,M2 Coupe
+2020,BMW,M4 Convertible
+2020,BMW,M4 Coupe
+2020,BMW,M5
+2020,BMW,M8 Convertible
+2020,BMW,M8 Coupe
+2020,BMW,X1
+2020,BMW,X2
+2020,BMW,X2 M
+2020,BMW,X3
+2020,BMW,X3 M
+2020,BMW,X4
+2020,BMW,X4 M
+2020,BMW,X5
+2010,Buick,Enclave
+2010,Buick,LaCrosse
+2010,Buick,Lucerne
+2011,Buick,Enclave
+2011,Buick,LaCrosse
+2011,Buick,Lucerne
+2011,Buick,Regal
+2012,Buick,Enclave
+2012,Buick,LaCrosse
+2012,Buick,Regal
+2012,Buick,Verano
+2013,Buick,Enclave
+2013,Buick,Encore
+2013,Buick,LaCrosse
+2013,Buick,Regal
+2013,Buick,Verano
+2014,Buick,Enclave
+2014,Buick,Encore
+2014,Buick,LaCrosse
+2014,Buick,Regal
+2014,Buick,Verano
+2015,Buick,Enclave
+2015,Buick,Encore
+2015,Buick,LaCrosse
+2015,Buick,Regal
+2015,Buick,Verano
+2017,Buick,Cascada
+2017,Buick,Enclave
+2017,Buick,Encore
+2017,Buick,Envision
+2017,Buick,LaCrosse
+2017,Buick,Regal
+2017,Buick,Verano
+2018,Buick,Cascada
+2018,Buick,Enclave
+2018,Buick,Encore
+2018,Buick,Envision
+2018,Buick,LaCrosse
+2018,Buick,Regal Sportback
+2018,Buick,Regal TourX
+2019,Buick,Cascada
+2019,Buick,Enclave
+2019,Buick,Encore
+2019,Buick,Envision
+2019,Buick,LaCrosse
+2019,Buick,Regal Sportback
+2019,Buick,Regal TourX
+2020,Buick,Enclave
+2020,Buick,Encore
+2020,Buick,Encore GX
+2020,Buick,Envision
+2020,Buick,Regal Sportback
+2020,Buick,Regal TourX
+2010,Cadillac,CTS
+2010,Cadillac,DTS
+2010,Cadillac,Escalade
+2010,Cadillac,Escalade ESV
+2010,Cadillac,Escalade EXT
+2010,Cadillac,SRX
+2010,Cadillac,STS
+2011,Cadillac,CTS
+2011,Cadillac,DTS
+2011,Cadillac,Escalade
+2011,Cadillac,Escalade ESV
+2011,Cadillac,Escalade EXT
+2011,Cadillac,SRX
+2011,Cadillac,STS
+2014,Cadillac,ATS
+2014,Cadillac,CTS Coupe
+2014,Cadillac,CTS Sedan
+2014,Cadillac,CTS Sport Wagon
+2014,Cadillac,CTS-V Coupe
+2014,Cadillac,CTS-V Sport Sedan
+2014,Cadillac,CTS-V Sport Wagon
+2014,Cadillac,ELR
+2014,Cadillac,Escalade
+2014,Cadillac,Escalade ESV
+2014,Cadillac,SRX
+2014,Cadillac,XTS
+2015,Cadillac,ATS
+2015,Cadillac,ATS Coupe
+2015,Cadillac,CTS Sedan
+2015,Cadillac,CTS-V Coupe
+2015,Cadillac,Escalade
+2015,Cadillac,Escalade ESV
+2015,Cadillac,SRX
+2015,Cadillac,XTS
+2017,Cadillac,ATS Coupe
+2017,Cadillac,ATS Sedan
+2017,Cadillac,ATS-V Coupe
+2017,Cadillac,ATS-V Sedan
+2017,Cadillac,CT6
+2017,Cadillac,CTS Sedan
+2017,Cadillac,CTS-V Sedan
+2017,Cadillac,Escalade
+2017,Cadillac,Escalade ESV
+2017,Cadillac,XT5
+2017,Cadillac,XTS
+2019,Cadillac,ATS Coupe
+2019,Cadillac,ATS-V Coupe
+2019,Cadillac,CT6
+2019,Cadillac,CTS Sedan
+2019,Cadillac,CTS-V Sedan
+2019,Cadillac,Escalade
+2019,Cadillac,Escalade ESV
+2019,Cadillac,XT4
+2019,Cadillac,XT5
+2019,Cadillac,XTS
+2020,Cadillac,CT4
+2020,Cadillac,CT5
+2020,Cadillac,CT6
+2020,Cadillac,Escalade
+2020,Cadillac,Escalade ESV
+2020,Cadillac,XT4
+2020,Cadillac,XT5
+2020,Cadillac,XT6
+2010,Chevrolet,Avalanche
+2010,Chevrolet,Aveo
+2010,Chevrolet,Aveo5
+2010,Chevrolet,Camaro
+2010,Chevrolet,Cobalt
+2010,Chevrolet,Colorado
+2010,Chevrolet,Corvette
+2010,Chevrolet,Equinox
+2010,Chevrolet,Express
+2010,Chevrolet,Express Cargo
+2010,Chevrolet,HHR
+2010,Chevrolet,Impala
+2010,Chevrolet,Malibu
+2010,Chevrolet,Silverado 1500
+2010,Chevrolet,Silverado 2500HD
+2010,Chevrolet,Silverado 3500
+2010,Chevrolet,Silverado 3500 Chassis Cab
+2010,Chevrolet,Suburban
+2010,Chevrolet,Tahoe
+2010,Chevrolet,Traverse
+2011,Chevrolet,Avalanche
+2011,Chevrolet,Aveo
+2011,Chevrolet,Aveo5
+2011,Chevrolet,Camaro
+2011,Chevrolet,Colorado
+2011,Chevrolet,Corvette
+2011,Chevrolet,Cruze
+2011,Chevrolet,Equinox
+2011,Chevrolet,Express
+2011,Chevrolet,Express Cargo
+2011,Chevrolet,HHR
+2011,Chevrolet,Impala
+2011,Chevrolet,Malibu
+2011,Chevrolet,Silverado 1500
+2011,Chevrolet,Silverado 2500HD
+2011,Chevrolet,Silverado 2500HD; Silverado 3500
+2011,Chevrolet,Silverado 3500
+2011,Chevrolet,Silverado 3500 Chassis Cab
+2011,Chevrolet,Suburban
+2011,Chevrolet,Tahoe
+2012,Chevrolet,Avalanche
+2012,Chevrolet,Camaro
+2012,Chevrolet,Captiva Sport
+2012,Chevrolet,Colorado
+2012,Chevrolet,Corvette
+2012,Chevrolet,Cruze
+2012,Chevrolet,Equinox
+2012,Chevrolet,Express
+2012,Chevrolet,Express Cargo
+2012,Chevrolet,Impala
+2012,Chevrolet,Malibu
+2012,Chevrolet,Silverado 1500
+2012,Chevrolet,Silverado 2500HD
+2012,Chevrolet,Silverado 3500
+2012,Chevrolet,Silverado 3500 Chassis Cab
+2012,Chevrolet,Sonic
+2012,Chevrolet,Suburban
+2012,Chevrolet,Tahoe
+2012,Chevrolet,Traverse
+2012,Chevrolet,Volt
+2013,Chevrolet,Avalanche
+2013,Chevrolet,Camaro
+2013,Chevrolet,Captiva Sport
+2013,Chevrolet,Corvette
+2013,Chevrolet,Cruze
+2013,Chevrolet,Equinox
+2013,Chevrolet,Express
+2013,Chevrolet,Express Cargo
+2013,Chevrolet,Impala
+2013,Chevrolet,Malibu
+2013,Chevrolet,Silverado 1500
+2013,Chevrolet,Silverado 2500HD
+2013,Chevrolet,Silverado 3500
+2013,Chevrolet,Silverado 3500 Chassis Cab
+2013,Chevrolet,Sonic
+2013,Chevrolet,Spark
+2013,Chevrolet,Suburban
+2013,Chevrolet,Tahoe
+2013,Chevrolet,Traverse
+2013,Chevrolet,Volt
+2014,Chevrolet,Camaro
+2014,Chevrolet,Captiva Sport
+2014,Chevrolet,Corvette
+2014,Chevrolet,Cruze
+2014,Chevrolet,Equinox
+2014,Chevrolet,Express
+2014,Chevrolet,Express Cargo
+2014,Chevrolet,Express Cutaway
+2014,Chevrolet,Impala
+2014,Chevrolet,Malibu
+2014,Chevrolet,SS
+2014,Chevrolet,Silverado 1500
+2014,Chevrolet,Silverado 2500HD
+2014,Chevrolet,Silverado 3500
+2014,Chevrolet,Silverado 3500 Chassis Cab
+2014,Chevrolet,Sonic
+2014,Chevrolet,Spark
+2014,Chevrolet,Suburban
+2014,Chevrolet,Tahoe
+2014,Chevrolet,Traverse
+2015,Chevrolet,Camaro
+2015,Chevrolet,Captiva Sport
+2015,Chevrolet,City Express
+2015,Chevrolet,Colorado
+2015,Chevrolet,Corvette
+2015,Chevrolet,Cruze
+2015,Chevrolet,Equinox
+2015,Chevrolet,Express Cargo
+2015,Chevrolet,Express Cutaway
+2015,Chevrolet,Express Passenger
+2015,Chevrolet,Impala
+2015,Chevrolet,Malibu
+2015,Chevrolet,SS
+2015,Chevrolet,Silverado 1500
+2015,Chevrolet,Silverado 2500HD
+2015,Chevrolet,Silverado 3500
+2015,Chevrolet,Silverado 3500 Chassis Cab
+2015,Chevrolet,Silverado 3500HD
+2015,Chevrolet,Sonic
+2015,Chevrolet,Spark
+2016,Chevrolet,Camaro
+2016,Chevrolet,City Express
+2016,Chevrolet,Colorado
+2016,Chevrolet,Corvette
+2016,Chevrolet,Cruze
+2016,Chevrolet,Cruze Limited
+2016,Chevrolet,Equinox
+2016,Chevrolet,Express Cargo
+2016,Chevrolet,Express Cutaway
+2016,Chevrolet,Express Passenger
+2016,Chevrolet,Impala
+2016,Chevrolet,Impala Limited
+2016,Chevrolet,Low Cab Forward
+2016,Chevrolet,Malibu
+2016,Chevrolet,Malibu Limited
+2016,Chevrolet,SS
+2016,Chevrolet,Silverado 1500
+2016,Chevrolet,Silverado 2500HD
+2016,Chevrolet,Silverado 3500 Chassis Cab
+2016,Chevrolet,Silverado 3500HD
+2018,Chevrolet,Bolt EV
+2018,Chevrolet,Camaro
+2018,Chevrolet,City Express
+2018,Chevrolet,Colorado
+2018,Chevrolet,Corvette
+2018,Chevrolet,Cruze
+2018,Chevrolet,Equinox
+2018,Chevrolet,Express Cargo
+2018,Chevrolet,Express Cutaway
+2018,Chevrolet,Express Passenger
+2018,Chevrolet,Impala
+2018,Chevrolet,Low Cab Forward
+2018,Chevrolet,Malibu
+2018,Chevrolet,Silverado 1500
+2018,Chevrolet,Silverado 2500HD
+2018,Chevrolet,Silverado 3500 Chassis Cab
+2018,Chevrolet,Silverado 3500HD
+2018,Chevrolet,Sonic
+2018,Chevrolet,Spark
+2018,Chevrolet,Suburban
+2019,Chevrolet,Blazer
+2019,Chevrolet,Bolt EV
+2019,Chevrolet,Camaro
+2019,Chevrolet,Colorado
+2019,Chevrolet,Corvette
+2019,Chevrolet,Cruze
+2019,Chevrolet,Equinox
+2019,Chevrolet,Express Cargo
+2019,Chevrolet,Express Cutaway
+2019,Chevrolet,Express Passenger
+2019,Chevrolet,Impala
+2019,Chevrolet,Low Cab Forward
+2019,Chevrolet,Malibu
+2019,Chevrolet,Silverado 1500
+2019,Chevrolet,Silverado 1500 LD
+2019,Chevrolet,Silverado 2500HD
+2019,Chevrolet,Silverado 3500 Chassis Cab
+2019,Chevrolet,Silverado 3500HD
+2019,Chevrolet,Silverado 4500 Medium Duty Chassis Cab
+2019,Chevrolet,Sonic
+2020,Chevrolet,Blazer
+2020,Chevrolet,Bolt EV
+2020,Chevrolet,Camaro
+2020,Chevrolet,Colorado
+2020,Chevrolet,Corvette
+2020,Chevrolet,Equinox
+2020,Chevrolet,Express Cargo
+2020,Chevrolet,Express Cutaway
+2020,Chevrolet,Express Passenger
+2020,Chevrolet,Impala
+2020,Chevrolet,Low Cab Forward
+2020,Chevrolet,Malibu
+2020,Chevrolet,Silverado 1500
+2020,Chevrolet,Silverado 2500HD
+2020,Chevrolet,Silverado 3500 Chassis Cab; Silverado 3500HD
+2020,Chevrolet,Silverado 3500HD
+2020,Chevrolet,Silverado 4500 Medium Duty Chassis Cab
+2020,Chevrolet,Sonic
+2020,Chevrolet,Spark
+2020,Chevrolet,Suburban
+2011,Chrysler,200
+2011,Chrysler,300
+2011,Chrysler,Town & Country
+2013,Chrysler,200
+2013,Chrysler,300
+2013,Chrysler,Town & Country
+2014,Chrysler,200
+2014,Chrysler,300
+2014,Chrysler,Town & Country
+2017,Chrysler,200
+2017,Chrysler,300
+2017,Chrysler,Pacifica
+2017,Chrysler,Pacifica Hybrid
+2018,Chrysler,300
+2018,Chrysler,Pacifica
+2018,Chrysler,Pacifica Hybrid
+2019,Chrysler,300
+2019,Chrysler,Pacifica
+2019,Chrysler,Pacifica Hybrid
+2010,Dodge,Avenger
+2010,Dodge,Caliber
+2010,Dodge,Challenger
+2010,Dodge,Charger
+2010,Dodge,Grand Caravan
+2010,Dodge,Journey
+2010,Dodge,Nitro
+2010,Dodge,Viper
+2011,Dodge,Avenger
+2011,Dodge,Caliber
+2011,Dodge,Challenger
+2011,Dodge,Charger
+2011,Dodge,Durango
+2011,Dodge,Grand Caravan
+2011,Dodge,Journey
+2011,Dodge,Nitro
+2012,Dodge,Avenger
+2012,Dodge,Caliber
+2012,Dodge,Challenger
+2012,Dodge,Charger
+2012,Dodge,Durango
+2012,Dodge,Grand Caravan
+2012,Dodge,Journey
+2013,Dodge,Avenger
+2013,Dodge,Challenger
+2013,Dodge,Charger
+2013,Dodge,Dart
+2013,Dodge,Durango
+2013,Dodge,Grand Caravan
+2013,Dodge,Journey
+2014,Dodge,Avenger
+2014,Dodge,Challenger
+2014,Dodge,Charger
+2014,Dodge,Dart
+2014,Dodge,Durango
+2014,Dodge,Grand Caravan
+2014,Dodge,Journey
+2016,Dodge,Challenger
+2016,Dodge,Charger
+2016,Dodge,Dart
+2016,Dodge,Durango
+2016,Dodge,Grand Caravan
+2016,Dodge,Journey
+2016,Dodge,Viper
+2017,Dodge,Challenger
+2017,Dodge,Charger
+2017,Dodge,Durango
+2017,Dodge,Grand Caravan
+2017,Dodge,Journey
+2017,Dodge,Viper
+2018,Dodge,Challenger
+2018,Dodge,Charger
+2018,Dodge,Durango
+2018,Dodge,Grand Caravan
+2018,Dodge,Journey
+2019,Dodge,Challenger
+2019,Dodge,Charger
+2019,Dodge,Durango
+2019,Dodge,Grand Caravan
+2019,Dodge,Journey
+2020,Dodge,Challenger
+2020,Dodge,Charger
+2020,Dodge,Durango
+2020,Dodge,Grand Caravan
+2020,Dodge,Journey
+2013,Fiat,500
+2013,Fiat,500e
+2016,Fiat,500
+2016,Fiat,500L
+2016,Fiat,500X
+2016,Fiat,500c
+2016,Fiat,500e
+2017,Fiat,124 Spider
+2017,Fiat,500
+2017,Fiat,500L
+2017,Fiat,500X
+2017,Fiat,500c
+2017,Fiat,500e
+2018,Fiat,124 Spider
+2018,Fiat,500
+2018,Fiat,500L
+2018,Fiat,500X
+2018,Fiat,500c
+2018,Fiat,500e
+2020,Fiat,124 Spider
+2020,Fiat,500L
+2020,Fiat,500X
+2010,Ford,Crown Victoria
+2010,Ford,E-Series Econoline Van
+2010,Ford,E-Series Econoline Wagon
+2010,Ford,Edge
+2010,Ford,Escape
+2010,Ford,Expedition
+2010,Ford,Explorer
+2010,Ford,Explorer Sport Trac
+2010,Ford,F-150
+2010,Ford,F-250 Super Duty
+2010,Ford,F-350 Super Duty
+2010,Ford,F-350 Super Duty Chassis Cab
+2010,Ford,F-450 Super Duty
+2010,Ford,F-450 Super Duty Chassis Cab
+2010,Ford,Flex
+2010,Ford,Focus
+2010,Ford,Fusion
+2010,Ford,Mustang
+2010,Ford,Ranger
+2010,Ford,Taurus
+2011,Ford,Crown Victoria
+2011,Ford,E-Series Econoline Van
+2011,Ford,E-Series Econoline Wagon
+2011,Ford,Edge
+2011,Ford,Escape
+2011,Ford,Expedition
+2011,Ford,Explorer
+2011,Ford,F-150
+2011,Ford,F-250 Super Duty
+2011,Ford,F-350 Super Duty
+2011,Ford,F-350 Super Duty Chassis Cab
+2011,Ford,F-450 Super Duty
+2011,Ford,F-450 Super Duty Chassis Cab
+2011,Ford,Fiesta
+2011,Ford,Flex
+2011,Ford,Focus
+2011,Ford,Fusion
+2011,Ford,Mustang
+2011,Ford,Ranger
+2011,Ford,Taurus
+2012,Ford,E-Series Econoline Van
+2012,Ford,E-Series Econoline Wagon
+2012,Ford,Edge
+2012,Ford,Escape
+2012,Ford,Expedition
+2012,Ford,Explorer
+2012,Ford,F-150
+2012,Ford,F-250 Super Duty
+2012,Ford,F-350 Super Duty
+2012,Ford,F-350 Super Duty Chassis Cab
+2012,Ford,F-450 Super Duty
+2012,Ford,F-450 Super Duty Chassis Cab
+2012,Ford,Fiesta
+2012,Ford,Flex
+2012,Ford,Focus
+2012,Ford,Fusion
+2012,Ford,Mustang
+2012,Ford,Taurus
+2012,Ford,Transit Connect
+2013,Ford,C-Max
+2013,Ford,E-Series Econoline Van
+2013,Ford,E-Series Econoline Wagon
+2013,Ford,Edge
+2013,Ford,Escape
+2013,Ford,Expedition
+2013,Ford,Explorer
+2013,Ford,F-150
+2013,Ford,F-250 Super Duty
+2013,Ford,F-350 Super Duty
+2013,Ford,F-350 Super Duty Chassis Cab
+2013,Ford,F-450 Super Duty
+2013,Ford,F-450 Super Duty Chassis Cab
+2013,Ford,Fiesta
+2013,Ford,Flex
+2013,Ford,Focus
+2013,Ford,Fusion
+2013,Ford,Fusion Energi
+2013,Ford,Mustang
+2013,Ford,Taurus
+2014,Ford,C-Max
+2014,Ford,E-Series Cutaway
+2014,Ford,E-Series Econoline Van
+2014,Ford,E-Series Econoline Wagon
+2014,Ford,Edge
+2014,Ford,Escape
+2014,Ford,Expedition
+2014,Ford,Explorer
+2014,Ford,F-150
+2014,Ford,F-250 Super Duty
+2014,Ford,F-350 Super Duty
+2014,Ford,F-350 Super Duty Chassis Cab
+2014,Ford,F-450 Super Duty
+2014,Ford,F-450 Super Duty Chassis Cab
+2014,Ford,Fiesta
+2014,Ford,Flex
+2014,Ford,Focus
+2014,Ford,Fusion
+2014,Ford,Fusion Energi
+2014,Ford,Mustang
+2015,Ford,C-Max
+2015,Ford,E-Series Cutaway
+2015,Ford,Edge
+2015,Ford,Escape
+2015,Ford,Expedition
+2015,Ford,Explorer
+2015,Ford,F-150
+2015,Ford,F-250 Super Duty
+2015,Ford,F-350 Super Duty
+2015,Ford,F-350 Super Duty Chassis Cab
+2015,Ford,F-450 Super Duty
+2015,Ford,F-450 Super Duty Chassis Cab
+2015,Ford,Fiesta
+2015,Ford,Flex
+2015,Ford,Focus
+2015,Ford,Fusion
+2015,Ford,Fusion Energi
+2015,Ford,Mustang
+2015,Ford,Taurus
+2015,Ford,Transit
+2016,Ford,C-Max
+2016,Ford,E-Series Cutaway
+2016,Ford,Edge
+2016,Ford,Escape
+2016,Ford,Expedition
+2016,Ford,Explorer
+2016,Ford,F-150
+2016,Ford,F-250 Super Duty
+2016,Ford,F-350 Super Duty
+2016,Ford,F-350 Super Duty Chassis Cab
+2016,Ford,F-450 Super Duty
+2016,Ford,F-450 Super Duty Chassis Cab
+2016,Ford,Fiesta
+2016,Ford,Flex
+2016,Ford,Focus
+2016,Ford,Fusion
+2016,Ford,Fusion Energi
+2016,Ford,Fusion Hybrid
+2016,Ford,Mustang
+2016,Ford,Taurus
+2017,Ford,C-Max
+2017,Ford,E-Series Cutaway
+2017,Ford,Edge
+2017,Ford,Escape
+2017,Ford,Expedition
+2017,Ford,Explorer
+2017,Ford,F-150
+2017,Ford,F-250 Super Duty
+2017,Ford,F-350 Super Duty
+2017,Ford,F-350 Super Duty Chassis Cab
+2017,Ford,F-450 Super Duty
+2017,Ford,F-450 Super Duty Chassis Cab
+2017,Ford,Fiesta
+2017,Ford,Flex
+2017,Ford,Focus
+2017,Ford,Fusion
+2017,Ford,Fusion Energi
+2017,Ford,Fusion Hybrid
+2017,Ford,Mustang
+2017,Ford,Taurus
+2018,Ford,C-Max
+2018,Ford,E-Series Cutaway
+2018,Ford,EcoSport
+2018,Ford,Edge
+2018,Ford,Escape
+2018,Ford,Expedition
+2018,Ford,Explorer
+2018,Ford,F-150
+2018,Ford,F-250 Super Duty
+2018,Ford,F-350 Super Duty
+2018,Ford,F-350 Super Duty Chassis Cab
+2018,Ford,F-450 Super Duty
+2018,Ford,F-450 Super Duty Chassis Cab
+2018,Ford,Fiesta
+2018,Ford,Flex
+2018,Ford,Focus
+2018,Ford,Fusion
+2018,Ford,Fusion Energi
+2018,Ford,Fusion Hybrid
+2018,Ford,Mustang
+2019,Ford,E-Series Cutaway
+2019,Ford,EcoSport
+2019,Ford,Edge
+2019,Ford,Escape
+2019,Ford,Expedition
+2019,Ford,Explorer
+2019,Ford,F-150
+2019,Ford,F-250 Super Duty
+2019,Ford,F-350 Super Duty
+2019,Ford,F-350 Super Duty Chassis Cab
+2019,Ford,F-450 Super Duty
+2019,Ford,F-450 Super Duty Chassis Cab
+2019,Ford,F-550 Super Duty Chassis Cab
+2019,Ford,Fiesta
+2019,Ford,Flex
+2019,Ford,Fusion
+2019,Ford,Fusion Energi
+2019,Ford,Fusion Hybrid
+2019,Ford,Mustang
+2019,Ford,Ranger
+2020,Ford,EcoSport
+2020,Ford,Edge
+2020,Ford,Escape
+2020,Ford,Expedition
+2020,Ford,Explorer
+2020,Ford,F-150
+2020,Ford,F-250 Super Duty
+2020,Ford,F-350 Super Duty
+2020,Ford,F-350 Super Duty Chassis Cab
+2020,Ford,F-450 Super Duty
+2020,Ford,F-450 Super Duty Chassis Cab
+2020,Ford,F-550 Super Duty Chassis Cab
+2020,Ford,Fusion
+2020,Ford,Fusion Energi
+2020,Ford,Fusion Hybrid
+2020,Ford,Mustang
+2020,Ford,Ranger
+2020,Ford,Transit Chassis Cab
+2020,Ford,Transit Connect
+2020,Ford,Transit Crew Van
+2010,GMC,Acadia
+2010,GMC,Canyon
+2010,GMC,Savana
+2010,GMC,Savana Cargo
+2010,GMC,Sierra 1500
+2010,GMC,Sierra 2500HD
+2010,GMC,Sierra 3500
+2010,GMC,Sierra 3500 Chassis Cab
+2010,GMC,Sierra Denali
+2010,GMC,Terrain
+2010,GMC,Yukon
+2010,GMC,Yukon XL
+2011,GMC,Acadia
+2011,GMC,Canyon
+2011,GMC,Savana
+2011,GMC,Savana Cargo
+2011,GMC,Sierra 1500
+2011,GMC,Sierra 2500HD
+2011,GMC,Sierra 3500
+2011,GMC,Sierra 3500 Chassis Cab
+2011,GMC,Sierra Denali
+2011,GMC,Terrain
+2011,GMC,Yukon
+2011,GMC,Yukon XL
+2012,GMC,Acadia
+2012,GMC,Canyon
+2012,GMC,Savana
+2012,GMC,Savana Cargo
+2012,GMC,Sierra 1500
+2012,GMC,Sierra 2500HD
+2012,GMC,Sierra 3500
+2012,GMC,Sierra 3500 Chassis Cab
+2012,GMC,Sierra Denali
+2012,GMC,Terrain
+2012,GMC,Yukon
+2012,GMC,Yukon XL
+2014,GMC,Acadia
+2014,GMC,Savana
+2014,GMC,Savana Cargo
+2014,GMC,Savana Cutaway
+2014,GMC,Sierra 1500
+2014,GMC,Sierra 2500HD
+2014,GMC,Sierra 3500
+2014,GMC,Sierra 3500 Chassis Cab
+2014,GMC,Terrain
+2014,GMC,Yukon
+2014,GMC,Yukon XL
+2015,GMC,Acadia
+2015,GMC,Canyon
+2015,GMC,Savana Cargo
+2015,GMC,Savana Cutaway
+2015,GMC,Savana Passenger
+2015,GMC,Sierra 1500
+2015,GMC,Sierra 1500 Denali
+2015,GMC,Sierra 2500 Denali HD
+2015,GMC,Sierra 2500HD
+2015,GMC,Sierra 3500
+2015,GMC,Sierra 3500 Chassis Cab
+2015,GMC,Sierra 3500 Denali HD
+2015,GMC,Terrain
+2015,GMC,Yukon
+2015,GMC,Yukon XL
+2016,GMC,Acadia
+2016,GMC,Canyon
+2016,GMC,Savana Cargo
+2016,GMC,Savana Cutaway
+2016,GMC,Savana Passenger
+2016,GMC,Sierra 1500
+2016,GMC,Sierra 1500 Denali
+2016,GMC,Sierra 2500 Denali HD
+2016,GMC,Sierra 2500HD
+2016,GMC,Sierra 3500 Chassis Cab
+2016,GMC,Sierra 3500 Denali HD
+2016,GMC,Sierra 3500HD
+2016,GMC,Terrain
+2016,GMC,Yukon
+2016,GMC,Yukon XL
+2018,GMC,Acadia
+2018,GMC,Canyon
+2018,GMC,Savana Cargo
+2018,GMC,Savana Cutaway
+2018,GMC,Savana Passenger
+2018,GMC,Sierra 1500
+2018,GMC,Sierra 1500 Denali
+2018,GMC,Sierra 2500 Denali HD
+2018,GMC,Sierra 2500HD
+2018,GMC,Sierra 3500 Chassis Cab
+2018,GMC,Sierra 3500 Denali HD
+2018,GMC,Sierra 3500HD
+2018,GMC,Terrain
+2018,GMC,Yukon
+2018,GMC,Yukon XL
+2019,GMC,Acadia
+2019,GMC,Canyon
+2019,GMC,Savana Cargo
+2019,GMC,Savana Cutaway
+2019,GMC,Savana Passenger
+2019,GMC,Sierra 1500
+2019,GMC,Sierra 1500 Denali
+2019,GMC,Sierra 1500 Limited
+2019,GMC,Sierra 2500 Denali HD
+2019,GMC,Sierra 2500HD
+2019,GMC,Sierra 3500 Chassis Cab
+2019,GMC,Sierra 3500 Denali HD
+2019,GMC,Sierra 3500HD
+2019,GMC,Terrain
+2019,GMC,Yukon
+2019,GMC,Yukon XL
+2020,GMC,Acadia
+2020,GMC,Canyon
+2020,GMC,Savana Cargo
+2020,GMC,Savana Cutaway
+2020,GMC,Savana Passenger
+2020,GMC,Sierra 1500
+2020,GMC,Sierra 1500 Denali
+2020,GMC,Sierra 2500 Denali HD
+2020,GMC,Sierra 2500HD
+2020,GMC,Sierra 3500 Chassis Cab; Sierra 3500HD
+2020,GMC,Sierra 3500 Denali HD
+2020,GMC,Sierra 3500HD
+2020,GMC,Terrain
+2020,GMC,Yukon
+2020,GMC,Yukon XL
