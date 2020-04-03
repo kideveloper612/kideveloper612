@@ -7,38 +7,18 @@ import json
 import time
 
 
-# makes = [
-#     'Acura',
-#     'Audi',
-#     'BMW',
-#     'Buick',
-#     'Cadillac',
-#     'Chevrolet',
-#     'Chrysler',
-#     'Dodge',
-#     'Fiat',
-#     'Ford',
-#     'GMC',
-#     'Honda',
-#     'Hyundai',
-#     'Infiniti',
-#     'Jeep',
-#     'Kia',
-#     'Lexus',
-#     'Lincoln',
-#     'Mazda',
-#     'Mercedes Benz',
-#     'Nissan',
-#     'RAM',
-#     'Subaru',
-#     'Toyota',
-#     'Volkswagen',
-#     'Volvo'
-# ]
-
-
 makes = [
     'Acura',
+    'Audi',
+    'BMW',
+    'Buick',
+    'Cadillac',
+    'Chevrolet',
+    'Chrysler',
+    'Dodge',
+    'Fiat',
+    'Ford',
+    'GMC',
     'Honda',
     'Hyundai',
     'Infiniti',
@@ -55,6 +35,7 @@ makes = [
     'Volkswagen',
     'Volvo'
 ]
+
 
 csv_header = [['YEAR', 'MAKE', 'MODEL']]
 
@@ -103,14 +84,13 @@ if __name__ == "__main__":
     print('-------------- Start ---------------')
     load_dotenv()
     for make in makes:
-        if make.lower() == 'acura' :
-            continue
         for year in range(2010, 2021):
             res = api(make.lower(), year)
+            time.sleep(10)
             if res:
                 for model in res:
                     time.sleep(1)
                     line = [year, make, model]
                     print(line)
-                    write_csv(lines=[line], filename='Model_List.csv')
+                    write_csv(lines=[line], filename='Model_List_Again.csv')
     print('-------------- End ----------------')
